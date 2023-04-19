@@ -1,0 +1,53 @@
+body{
+    background-color: beige ;
+    text-align: center;
+}
+    .textred{
+        color:rgb(80, 167, 21);
+
+
+    }
+    body{
+        background-image: url(https://c4.wallpaperflare.com/wallpaper/531/951/621/digital-digital-art-artwork-illustration-minimalism-hd-wallpaper-preview.jpg);
+        background-repeat: no-repeat;
+        background-size:cover ;
+    }
+
+    label{
+        text-transform: capitalize;
+        color:violet;
+
+    }
+    button{
+        background-color: black;
+        color:white;
+        border-radius: 8px;
+        cursor:pointer;
+        padding: 12px;
+        padding-left: 12px;
+        padding-right: 12px;
+        padding-bottom: ;
+        padding-top: ;
+
+    }
+
+    .input_container{
+        padding: 12px;
+        background-color: transparent;
+        border: black;
+        width: 50%;
+    }
+    .input_container{
+
+    }
+    
+    .heading_1{
+        background-color: red;
+        padding: 16px;
+        
+        border: 2px solid yellow;
+        margin:12px;
+        margin-left: 0px;
+
+
+    }
